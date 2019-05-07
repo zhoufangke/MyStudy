@@ -1,1 +1,1 @@
-# MyStudy
+System.out.println("Hello GitHub");
